@@ -4,7 +4,7 @@ Very simple state machine in typescript alongside with example
 ------
 
 In `src/Examples/BinaryNumbersDFA/AutomatonAcceptingBinaryNumbers.ts` there is an example that creates simple automaton that checks if provided string is a valid binary number:
-
+![Automaton](img/AcceptingBinaryNumbersAutomaton.png)
 
 ### How to use?
 1. Create states using `State<T>` class, where `T` is a type of data held by the state.
